@@ -2,7 +2,7 @@
 """
 Created on 5/2/2023
 
-@author: Armon Lenahan
+@author: Armon John Lenahan
 """
 
 #Import necessary libraries
